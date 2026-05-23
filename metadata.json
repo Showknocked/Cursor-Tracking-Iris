@@ -1,0 +1,6 @@
+{
+  "name": "Eyeball Cursor Tracker",
+  "description": "An interactive, highly tactile eyeball tracking playground where eyes dynamically track your cursor, customizable with different styles and options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
